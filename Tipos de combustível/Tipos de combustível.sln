@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipos de combustível", "Tipos de combustível\Tipos de combustível.csproj", "{136E537F-EFE8-4251-9D1F-3B2C8FEDFB37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{136E537F-EFE8-4251-9D1F-3B2C8FEDFB37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136E537F-EFE8-4251-9D1F-3B2C8FEDFB37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136E537F-EFE8-4251-9D1F-3B2C8FEDFB37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136E537F-EFE8-4251-9D1F-3B2C8FEDFB37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C11875F5-D2B4-49CB-BAA7-7E4D826C2DCE}
+	EndGlobalSection
+EndGlobal

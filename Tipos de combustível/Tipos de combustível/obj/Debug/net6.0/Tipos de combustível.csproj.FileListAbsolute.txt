@@ -1,0 +1,15 @@
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\bin\Debug\net6.0\Tipos de combustível.exe
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\bin\Debug\net6.0\Tipos de combustível.deps.json
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\bin\Debug\net6.0\Tipos de combustível.runtimeconfig.json
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\bin\Debug\net6.0\Tipos de combustível.dll
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\bin\Debug\net6.0\Tipos de combustível.pdb
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.csproj.AssemblyReference.cache
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.AssemblyInfoInputs.cache
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.AssemblyInfo.cs
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.csproj.CoreCompileInputs.cache
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.dll
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\refint\Tipos de combustível.dll
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.pdb
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\Tipos de combustível.genruntimeconfig.cache
+C:\Users\dasil\source\repos\Tipos de combustível\Tipos de combustível\obj\Debug\net6.0\ref\Tipos de combustível.dll
