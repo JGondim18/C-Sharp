@@ -1,0 +1,15 @@
+C:\Users\dasil\source\repos\Divisores\Divisores\bin\Debug\net6.0\Divisores.exe
+C:\Users\dasil\source\repos\Divisores\Divisores\bin\Debug\net6.0\Divisores.deps.json
+C:\Users\dasil\source\repos\Divisores\Divisores\bin\Debug\net6.0\Divisores.runtimeconfig.json
+C:\Users\dasil\source\repos\Divisores\Divisores\bin\Debug\net6.0\Divisores.dll
+C:\Users\dasil\source\repos\Divisores\Divisores\bin\Debug\net6.0\Divisores.pdb
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.csproj.AssemblyReference.cache
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.AssemblyInfoInputs.cache
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.AssemblyInfo.cs
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.csproj.CoreCompileInputs.cache
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.dll
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\refint\Divisores.dll
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.pdb
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\Divisores.genruntimeconfig.cache
+C:\Users\dasil\source\repos\Divisores\Divisores\obj\Debug\net6.0\ref\Divisores.dll
