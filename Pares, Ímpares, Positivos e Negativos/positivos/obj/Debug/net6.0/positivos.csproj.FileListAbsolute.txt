@@ -1,0 +1,15 @@
+C:\Users\dasil\source\repos\positivos\positivos\bin\Debug\net6.0\positivos.exe
+C:\Users\dasil\source\repos\positivos\positivos\bin\Debug\net6.0\positivos.deps.json
+C:\Users\dasil\source\repos\positivos\positivos\bin\Debug\net6.0\positivos.runtimeconfig.json
+C:\Users\dasil\source\repos\positivos\positivos\bin\Debug\net6.0\positivos.dll
+C:\Users\dasil\source\repos\positivos\positivos\bin\Debug\net6.0\positivos.pdb
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.csproj.AssemblyReference.cache
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.AssemblyInfoInputs.cache
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.AssemblyInfo.cs
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.csproj.CoreCompileInputs.cache
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.dll
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\refint\positivos.dll
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.pdb
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\positivos.genruntimeconfig.cache
+C:\Users\dasil\source\repos\positivos\positivos\obj\Debug\net6.0\ref\positivos.dll
