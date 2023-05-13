@@ -1,0 +1,15 @@
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\bin\Debug\net6.0\Intervalo de inteiros.exe
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\bin\Debug\net6.0\Intervalo de inteiros.deps.json
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\bin\Debug\net6.0\Intervalo de inteiros.runtimeconfig.json
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\bin\Debug\net6.0\Intervalo de inteiros.dll
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\bin\Debug\net6.0\Intervalo de inteiros.pdb
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.csproj.AssemblyReference.cache
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.AssemblyInfoInputs.cache
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.AssemblyInfo.cs
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.csproj.CoreCompileInputs.cache
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.dll
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\refint\Intervalo de inteiros.dll
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.pdb
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\Intervalo de inteiros.genruntimeconfig.cache
+C:\Users\dasil\source\repos\Intervalo de inteiros\Intervalo de inteiros\obj\Debug\net6.0\ref\Intervalo de inteiros.dll
