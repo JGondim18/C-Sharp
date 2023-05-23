@@ -22,7 +22,7 @@ for(int i = 1; i <= N; i++)
     Console.WriteLine($"Insira o {i}° valor:");
     int I = int.Parse(Console.ReadLine());
 
-    if(I > N && I < X)
+    if(I >= N && I <= X)
     {
         IN++; 
     }
